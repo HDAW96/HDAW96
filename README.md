@@ -8,21 +8,20 @@ I am a Computer Science student specializing in software development, with a str
 
 ### 🚀 About Me
 
-* 🎓 I’m currently studying **Computer Science** at the Lebanese International University (Expected Graduation: 2027).
+* 🎓 I’m currently studying **Computer Science** at the Lebanese International University (LIU) (Expected Graduation: 2027).
 * ☕ I’m working as a **Java Intern** at CodeAlpha, focusing on console applications and the Java Collections Framework.
 * 🔭 I’m currently developing the **BYTE Tech Store**, a responsive e-commerce web app using React.
-* 🌱 I’m actively learning **Spring Boot** and **TypeScript** to strengthen my back-end and front-end scalability.
-* ⚡ **Fun fact:** Beyond software, I build embedded electronics projects (like Arduino smart locks) and have experience prototyping 2D games!
+* ⚡ **Fun fact:** Beyond software, I build embedded electronics projects (like Arduino smart locks) and have experience prototyping 2D games with GML!
 
 ---
 
 ### 🛠️ Tech Stack & Tools
 
 **Front-End Development:**
-* React, Tailwind CSS, JavaScript, HTML5, CSS3
+* React, Tailwind CSS, JavaScript
 
 **Back-End & Programming:**
-* Java, Spring Boot (Learning), C#, .NET, SQL Server
+* Java, C#, .NET, SQL Server
 
 **Tools & Hardware:**
 * Git, GitHub, VS Code, Arduino 
