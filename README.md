@@ -1,4 +1,4 @@
-# Hi there, I'm Hadi Awad! 👋
+# Hi there, I'm Hadi! 👋
 
 ### 👨‍💻 Full-Stack Developer (In Progress) | Java Intern | Computer Science Student
 
