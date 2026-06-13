@@ -29,10 +29,10 @@ I am a Computer Science student specializing in software development, with a str
 
 ---
 
-### 💡 Featured Projects
+### 💡 Main Projects
 
 * **HabitGrow:** A desktop application built with C# and .NET to help users track daily habits and goals. Engineered the back-end database architecture using SQL Server with complex queries and table joins.
-* **Smart Security Lock System:** An embedded electronics prototyping project utilizing an Arduino micro-controller. Integrated RFID technology, SPI communication, and a matrix keypad for multi-factor authentication.
+* **Smart Security Lock System:** An embedded electronics prototyping project utilizing an Arduino microcontroller. Integrated RFID technology, SPI communication, and a matrix keypad for multi-factor authentication.
 * **BYTE Tech Store Website:** A responsive e-commerce front-end application utilizing React and reusable UI components for cross-device compatibility.
 
 ---
