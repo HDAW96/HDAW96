@@ -4,7 +4,7 @@
 
 ### Computer Science Student | Java Developer | Full-Stack Developer
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot+Learner;React+Developer;Always+Learning+New+Technologies" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=24&pause=1000&color=0A84FF&center=true&vCenter=true&width=600&lines=Java+Developer;Spring+Boot;React+Developer;Always+Learning+New+Technologies" />
 
 </div>
 
