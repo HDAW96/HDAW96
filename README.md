@@ -76,26 +76,6 @@ Arduino + RFID + Matrix Keypad authentication system.
 
 ---
 
-# 📊 GitHub Stats
-
-<div align="center">
-
-![](https://github-readme-stats.vercel.app/api?username=HDAW96&show_icons=true&theme=tokyonight)
-
-![](https://github-readme-streak-stats.herokuapp.com/?user=HDAW96&theme=tokyonight)
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=HDAW96&layout=compact&theme=tokyonight)
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-[![Hadi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=HDAW96&theme=tokyo-night)](https://github.com/HDAW96)
-
----
-
 # 📫 Connect with Me
 
 📍 Beirut, Lebanon
