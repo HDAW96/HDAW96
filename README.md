@@ -14,7 +14,7 @@
 
 🎓 Computer Science student at Lebanese International University (Expected Graduation: 2027)
 
-💼 Java Intern @ CodeAlpha
+💼 Java Intern @ TechTalks
 
 🌱 Currently learning
 
@@ -68,14 +68,8 @@ Responsive e-commerce website built with React and Tailwind CSS.
 ### 📈 Stock Trading Platform
 Java desktop application implementing OOP principles.
 
-### 🎓 Student Grade Tracker
-Java application for managing student records and grades.
-
-### 🏨 Hotel Reservation System
-Java-based reservation management system.
-
 ### 📅 HabitGrow
-Desktop habit tracker built with C#, .NET and SQL Server.
+Desktop habit tracker built with C#, .NET, and SQL Server.
 
 ### 🔒 Smart Security Lock
 Arduino + RFID + Matrix Keypad authentication system.
@@ -102,22 +96,11 @@ Arduino + RFID + Matrix Keypad authentication system.
 
 ---
 
-# 🎯 2026 Goals
-
-- Build production-ready Spring Boot APIs
-- Master RESTful services
-- Learn Docker
-- Learn CI/CD
-- Contribute to Open Source
-- Land a Software Engineering Internship
-
----
-
 # 📫 Connect with Me
 
 📍 Beirut, Lebanon
 
-📧 awadhadi54@gmail.com
+📧 hadi.a.awad88@gmail.com
 
 🐙 https://github.com/HDAW96
 
