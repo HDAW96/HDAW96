@@ -14,7 +14,7 @@
 
 🎓 Computer Science student at Lebanese International University (Expected Graduation: 2027)
 
-💼 Java Intern @ TechTalks
+💼 Software Engineering Intern @ TechTalks
 
 🌱 Currently learning
 
